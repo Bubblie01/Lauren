@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![KJP12's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=KJP12&show_icons=true&hide_border=true&theme=tokyonight) <br/>
 <!--
 **KJP12/KJP12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
